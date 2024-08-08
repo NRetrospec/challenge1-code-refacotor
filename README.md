@@ -1,17 +1,18 @@
 # challenge1-code-refacotor
-A project from the company Horiseon, to fix bugs on thier website. 
+A project from the company Horiseon, to fix bugs on thier website. Also to change their code from non semantic 
+to semantic code
 
 
 
 
 
-![screenshot](assets\images\Week1Screen Shot.png)
+![alt text](assets/images/Week1ScreenShot.png)
 
-
+## Usage
 
 ## Contributing
 Check out the accessibility of the website 
-Link: 
+Link: https://nretrospec.github.io/challenge1-code-refacotor/
 
 
 
